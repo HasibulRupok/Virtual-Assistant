@@ -1,0 +1,18 @@
+packages:
+    SpeechRecognition
+    pyttsx3
+    PyAudio
+    pywhatkit
+    datetime
+    wikipedia
+    pyjokes
+
+to install them:
+    pip install SpeechRecognition
+    pip install pyttsx3
+    pip install PyAudio
+    pip install pywhatkit
+    pip install wikipedia
+    pip install pyjokes
+
+*** Make sure you install all the packages to run the code

@@ -7,7 +7,7 @@ packages:
     wikipedia
     pyjokes
 
-to run this code install them:
+to run this code install this packages by this command:
     pip install SpeechRecognition
     pip install pyttsx3
     pip install PyAudio

@@ -47,4 +47,4 @@ The virtual assistant uses speech recognition to understand user commands, perfo
                 https://drive.google.com/file/d/18YGgbL1t1ZwjNT6D3562K2NP5UH1MbIC/view?usp=sharing
 
 ## You can watch the project demo on Youtube 
-   => https://youtu.be/ViZtKUgJHMQ
+   Youtube link: https://youtu.be/ViZtKUgJHMQ

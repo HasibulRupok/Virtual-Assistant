@@ -41,9 +41,10 @@ The virtual assistant uses speech recognition to understand user commands, perfo
     pip install wikipedia
     pip install pyjokes
 
-*** Make sure you install all the packages to run the code
+### Make sure you install all the packages to run the code
 
-*** You can download the full project from =>
+## You can download the full project from =>
                 https://drive.google.com/file/d/18YGgbL1t1ZwjNT6D3562K2NP5UH1MbIC/view?usp=sharing
 
-You can watch the project demo on Youtube => https://youtu.be/ViZtKUgJHMQ
+## You can watch the project demo on Youtube 
+   => https://youtu.be/ViZtKUgJHMQ

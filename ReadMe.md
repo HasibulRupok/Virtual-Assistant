@@ -48,3 +48,9 @@ The virtual assistant uses speech recognition to understand user commands, perfo
 
 ## You can watch the project demo on Youtube 
                 https://youtu.be/ViZtKUgJHMQ
+                
+                
+## License
+
+This project is licensed under the [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/). You are free to download and use this application, but you must provide appropriate credit to the original authors.
+                
